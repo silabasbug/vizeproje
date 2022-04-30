@@ -1,0 +1,2 @@
+C:\Users\Huawei\source\repos\uyg01\uyg01\obj\Debug\vizeproje.csprojAssemblyReference.cache
+C:\Users\Huawei\source\repos\uyg01\uyg01\obj\Debug\vizeproje.csproj.CoreCompileInputs.cache
